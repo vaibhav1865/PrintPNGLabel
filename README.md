@@ -29,7 +29,7 @@ As early as possible in your application, require and configure dotenv.
 ```javascript
 require('dotenv').config()
 ```
-##TO RUN 
+## TO RUN
 
 After installing above packages the file can be executed by typing 
 ```
