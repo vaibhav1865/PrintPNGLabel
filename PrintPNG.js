@@ -1,7 +1,7 @@
 
 require('dotenv').config();
 const EasyPost = require('@easypost/api');
-
+API_KEY="EZTKfe8bcb14604840fb905d7ae52ded029bcEkaXLixcRlOcZSsNAP0Fg";
 const api = new EasyPost(API_KEY);
 
 const shipment = new api.Shipment({
