@@ -1,5 +1,5 @@
 # PrintPNGLabel
-Returns : PNG Label URL that can be sent to printer to print according to requirments.
+Returns : PNG Label URL that can be sent to printer to print according to requirement.
 ## Installation
 
 ```bash
